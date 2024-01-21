@@ -1898,6 +1898,7 @@
       ]
     },
     {
+      "id": 7,
       "name": "Pep Guardiola",
       "phone": "89154654654",
       "email": "drowssaP@gmail.com",
@@ -1905,7 +1906,27 @@
       "avatar": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRiBneYfDOrfciOQ_6cV1zPQQ7C9mWlsH1czgXz_GZQtbqC13j5NEwmWum9diOpYRy8UREZriph4omVn6E",
       "password": "pep@123",
       "role": "manager",
-      "id": 7
+      "coursesEnrolled": [
+        {
+          "courseTitle": "Full Stack Web Development",
+          "completed": 75
+        },
+        {
+          "courseTitle": "Big Data Analytics",
+          "completed": 15
+        },
+        {
+          "courseTitle":"Quantum Computing",
+          "completed":66
+        },
+        {
+          "courseTitle":"Blockchain Technology",
+          "completed":8
+        }
+      ],
+      "coursesAdded": [
+        "Full Stack Web Development"
+      ]
     }
   ],
   "courses": [
